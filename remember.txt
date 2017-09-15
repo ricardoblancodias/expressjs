@@ -1,0 +1,2 @@
+'POST' and 'GET' differences:
+https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=949:diferencia-entre-post-y-get-en-ajax-setrequestheader-encodeuricomponent-validar-formulario-cu01212f&catid=83&Itemid=212
